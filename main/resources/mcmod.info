@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pubg_hei",
+  "name": "Pubg Mod",
+  "description": "Pubg mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["heibe"],
+  "credits": "Hei, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
